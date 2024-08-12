@@ -1,0 +1,36 @@
+.digital-clock-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.clock-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.clock-time {
+    font-size: 36px;
+    font-weight: bold;
+    color: #555;
+    margin-top: 10px;
+}
+
+.clock-time span {
+    padding: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+.clock-time span:first-child {
+    margin-right: 5px;
+}
+
+.clock-time span:last-child {
+    margin-left: 5px;
+}

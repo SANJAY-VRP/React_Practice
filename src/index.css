@@ -1,0 +1,23 @@
+.navbar{
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+
+}
+h2{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  margin: 0px 20px;
+  text-decoration: none;
+  padding: 0px;
+  
+}
+.links{
+  width: 40%;
+}
+.title{
+  width: 30%;
+}
